@@ -1,0 +1,19 @@
+{
+  "name": "vatsal-aur-backend",
+  "version": "1.0.0",
+  "description": "learning backend in javascript ",
+  "keywords": [
+    "javascript",
+    "node",
+    "js",
+    "express",
+    "js"
+  ],
+  "license": "ISC",
+  "author": "Vatsal Rathi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
